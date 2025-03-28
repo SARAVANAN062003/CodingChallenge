@@ -1,3 +1,4 @@
+use careerhub;
 --question 1,2,3
 CREATE TABLE Companies (
     CompanyID INT PRIMARY KEY,
